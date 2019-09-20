@@ -1,6 +1,6 @@
 # readme
 
-FM 6oo1:
+FM 6001:
     ver 0.1.1
     date 20190920
 
